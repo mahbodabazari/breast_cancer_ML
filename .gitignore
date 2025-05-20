@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.pkl
+*.h5
+*.hdf5
+*.log
+
+# Env
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Data files (optional, if you don’t want to push CSVs)
+
+
+# Model files
+*.joblib
+*.sav
+*.pt
+*.onnx
+
+# Plots
+*.png
+*.jpg
+catboost_info/
